@@ -34,8 +34,8 @@ gem install htmlentities
 
 ### Running the application
 
--Navigate to ../meldonSDE003 folder.
--Double-click the scriptrunner.app from the Finder. Must be run from this folder as it references the ruby scripts in the other solution folders.
+- Navigate to ../meldonSDE003 folder.
+- Double-click the scriptrunner.app from the Finder. Must be run from this folder as it references the ruby scripts in the other solution folders.
 
 ### Running the script
 
