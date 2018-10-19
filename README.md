@@ -4,9 +4,9 @@ MacOS Application to run ruby scripts for Facebook posts and Goodreads quotes
 
 ### Prerequisites
 
-MacOS
-Install ruby gem nokogiri
-Install ruby gem htmlentities
+- MacOS
+- Install ruby gem nokogiri
+- Install ruby gem htmlentities
 
 ```
 Give examples
@@ -34,8 +34,8 @@ gem install htmlentities
 
 ### Running the application
 
-Navigate to ../meldonSDE003 folder.
-Double-click the scriptrunner.app from the Finder. Must be run from this folder as it references the ruby scripts in the other solution folders.
+-Navigate to ../meldonSDE003 folder.
+-Double-click the scriptrunner.app from the Finder. Must be run from this folder as it references the ruby scripts in the other solution folders.
 
 ### Running the script
 
